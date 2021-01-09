@@ -1,4 +1,4 @@
-### DieselGame
+# DieselGame
 *This is a repository for my FPS Arena Survival Game.*
 
 Diesel is based on games such as Quake and Dusk. All the models and textures were created by me using Maya, Photoshop and Blender.
